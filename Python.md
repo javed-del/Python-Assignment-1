@@ -11,6 +11,7 @@ A.Python is called Dynamically typed language because we can declare the variabl
 Q3. List some pros and cons of Python programming language?
 
 A.Pros:
+
 1.Python is Easy to Learn and Use Programming Language
 
 2.Python has a reach library support 
@@ -90,7 +91,7 @@ A.word="iNeuron"
 print(word*3)
 
 Q17. Write a code to take a number as an input from the user and check if the number is odd or even.
-Anumber=int(input())
+A.number=int(input())
 if number%2==0:
     print("number is Even")
 else:
@@ -134,7 +135,7 @@ print(even_sum)
 
 
 Q24. Write a code to take 3 numbers as an input from the user and display the greatest no as output.
- numbers_list=[]
+numbers_list=[]
 for i in range(3):
     numbers=int(input())
     numbers_list.append(numbers)
